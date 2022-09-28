@@ -1,7 +1,8 @@
 # @arieltoniatto
 
 
-### Olá! Eu me chamo Ariel Toniatto e sou estudante de Desenvolvimento Full Stack. / Hello! I'm Ariel Toniatto a Full Stack Developer student from Brazil.
+### Olá! Eu me chamo Ariel Toniatto e sou estudante de Desenvolvimento Full Stack.
+### Hello! I'm Ariel Toniatto a Full Stack Developer student from Brazil.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ariel-toniatto/">
