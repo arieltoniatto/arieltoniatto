@@ -3,10 +3,14 @@
 
 ### Olá! Eu me chamo Ariel Toniatto e sou estudante de Desenvolvimento Full Stack. / Hello! I'm Ariel Toniatto a Full Stack Developer student from Brazil.
 
-
+<p align="center">
 <a href="https://www.linkedin.com/in/ariel-toniatto/">
   <img align="left" alt="Ariel Toniatto" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://www.instagram.com/arieltoniatto/">
+  <img align="left" alt="Ariel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+</p>
 
 <br />
 <br />
