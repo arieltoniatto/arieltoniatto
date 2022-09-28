@@ -11,7 +11,17 @@
 <br />
 <br />
 
-### 👨‍💻 Languages and Tools / Linguagens e Ferramentas
+<p align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arieltoniatto&layout=compact&theme=radical" alt="My Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=arieltoniatto&&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="My Github Stats">
+</p>
+
+
+
+<br />
+<br />
+
+### 👨‍💻 Linguagens e Ferramentas / Languages and Tools
 
 <br />
 
