@@ -39,3 +39,4 @@
 [![JSON](https://img.shields.io/badge/-json-02569B?style=flat&logo=json&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
 [![Jest](https://img.shields.io/badge/-Jest-orange?style=flat&logo=jest&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
+[![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
