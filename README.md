@@ -11,6 +11,10 @@
 <a href="https://www.instagram.com/arieltoniatto/">
   <img align="left" alt="Ariel's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a>
+ <a href="mailto:ariel.toniatto@gmail.com?subject=you're%20awsome">
+  <img align="left" alt="Ariel's email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 </p>
 
 <br />
