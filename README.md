@@ -1,8 +1,8 @@
 # @arieltoniatto
 
 
-### Olá! Eu me chamo Ariel Toniatto e sou estudante de Desenvolvimento Full Stack.
-### Hello! I'm Ariel Toniatto a Full Stack Developer student from Brazil.
+### Olá! Eu me chamo Ariel Toniatto, sou Desenvolvedor Backend e estudade de cibersegurança.
+### Hello! I'm Ariel Toniatto a Backend Developer and cybersecurity student.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ariel-toniatto/">
@@ -44,3 +44,4 @@
 [![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=mysql&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
 [![Jest](https://img.shields.io/badge/-Jest-orange?style=flat&logo=jest&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
 [![TypeScript](https://img.shields.io/badge/-TypeScript-white?style=flat&logo=typescript&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
+[![Python](https://img.shields.io/badge/-python-white?style=flat&logo=Python&link=https://github.com/arieltoniatto)](https://github.com/arieltoniatto) 
