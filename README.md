@@ -1,8 +1,8 @@
 # @arieltoniatto
 
 
-### Olá! Eu me chamo Ariel Toniatto, sou Desenvolvedor Backend e estudade de cibersegurança na Cisco Networking Academy.
-### Hello! I'm Ariel Toniatto a Backend Developer and cybersecurity student at Cisco Networking Academy.
+### Olá! Eu me chamo Ariel Toniatto, sou Desenvolvedor Fullstack e estudade de cibersegurança na Cisco Networking Academy.
+### Hello! I'm Ariel Toniatto a Fullstack Developer and cybersecurity student at Cisco Networking Academy.
 
 <p align="center">
 <a href="https://www.linkedin.com/in/ariel-toniatto/">
